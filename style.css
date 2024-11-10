@@ -51,7 +51,7 @@ nav ul{
 .speaker_list{
     width: 200px;
     height:200px;
-    border: double green thick;
+    border: double black thick;
     padding: 60px;
 }
 #booking a{
